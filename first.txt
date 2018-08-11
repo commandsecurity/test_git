@@ -2,8 +2,3 @@ This is the first file. First line
 
 Second line
 
-Third line
-
-I have fixed another bug
-
-Delete
