@@ -4,7 +4,4 @@ Second line
 
 Third line
 
-F
-F
-A
-A
+Bug fix
